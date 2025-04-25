@@ -1,5 +1,11 @@
 # @ai-sdk/fal
 
+## 1.0.0-canary.14
+
+### Patch Changes
+
+- d9209ca: fix (image-model): `specificationVersion: v1` -> `v2`
+
 ## 1.0.0-canary.13
 
 ### Patch Changes

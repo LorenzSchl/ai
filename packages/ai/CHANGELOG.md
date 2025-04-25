@@ -1,5 +1,11 @@
 # ai
 
+## 5.0.0-canary.15
+
+### Patch Changes
+
+- d9209ca: fix (image-model): `specificationVersion: v1` -> `v2`
+
 ## 5.0.0-canary.14
 
 ### Patch Changes

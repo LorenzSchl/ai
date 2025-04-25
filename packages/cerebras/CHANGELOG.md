@@ -1,5 +1,12 @@
 # @ai-sdk/cerebras
 
+## 1.0.0-canary.13
+
+### Patch Changes
+
+- Updated dependencies [d9209ca]
+  - @ai-sdk/openai-compatible@1.0.0-canary.13
+
 ## 1.0.0-canary.12
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # @ai-sdk/deepinfra
 
+## 1.0.0-canary.13
+
+### Patch Changes
+
+- d9209ca: fix (image-model): `specificationVersion: v1` -> `v2`
+- Updated dependencies [d9209ca]
+  - @ai-sdk/openai-compatible@1.0.0-canary.13
+
 ## 1.0.0-canary.12
 
 ### Patch Changes
